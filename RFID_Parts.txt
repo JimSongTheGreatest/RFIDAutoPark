@@ -1,0 +1,7 @@
+1. Arduino Nano ................. 1 PC
+2. IR Sensor .................... 4 PCs
+3. RFID Reader Module ( EM18 ) .. 2 PCs
+4. 16x2 LCD ..................... 2 PCs
+5. I2C LCD Convertor Module ..... 2 PCs
+6. Servo Motor .................. 2 PCs
+7. Buttons ...................... 4 PCs
