@@ -1,0 +1,20 @@
+# Package Information for pkg-config
+
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir_old=${prefix}/include/
+includedir_new=${prefix}/include/
+
+
+Name: OpenCV
+Description: Open Source Computer Vision Library
+Version: 0.0.0
+Libs: -L${exec_prefix}/lib 
+Libs.private: -ldl -lm -lpthread -lrt
+Cflags: -I${includedir_old} -I${includedir_new}
+
+
+
+
+
