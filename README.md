@@ -4,7 +4,7 @@
 
 2. 5 Cards used in the code, so scan all the cards and enter the IDs in the code
 
-3. We are using 2 I2C LCDs, so must change the I2C address of one LCD and Change the I2C Address of that LCD in the code, Check This Video: https://youtu.be/-eqirn-2yKA
+3. We are using 2 I2C LCDs, so must change the I2C address of one LCD and Change the I2C Address of that LCD in the code
 
 Let's Start
 1. Make the circuit as shown in the circuit diagram, Do not connect the 1st RFID Reader(whose pin is connected to the Tx Pin Of Arduino), because programming is not possible when this pin is connected.
